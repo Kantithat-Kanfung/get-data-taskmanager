@@ -1,0 +1,10 @@
+C:\Users\kanti\source\repos\MonitorDemo\MonitorDemo\bin\Debug\MonitorDemo.exe.config
+C:\Users\kanti\source\repos\MonitorDemo\MonitorDemo\bin\Debug\MonitorDemo.exe
+C:\Users\kanti\source\repos\MonitorDemo\MonitorDemo\bin\Debug\MonitorDemo.pdb
+C:\Users\kanti\source\repos\MonitorDemo\MonitorDemo\bin\Debug\System.CodeDom.dll
+C:\Users\kanti\source\repos\MonitorDemo\MonitorDemo\bin\Debug\System.CodeDom.xml
+C:\Users\kanti\source\repos\MonitorDemo\MonitorDemo\obj\Debug\MonitorDemo.csproj.AssemblyReference.cache
+C:\Users\kanti\source\repos\MonitorDemo\MonitorDemo\obj\Debug\MonitorDemo.csproj.CoreCompileInputs.cache
+C:\Users\kanti\source\repos\MonitorDemo\MonitorDemo\obj\Debug\MonitorDemo.csproj.CopyComplete
+C:\Users\kanti\source\repos\MonitorDemo\MonitorDemo\obj\Debug\MonitorDemo.exe
+C:\Users\kanti\source\repos\MonitorDemo\MonitorDemo\obj\Debug\MonitorDemo.pdb
